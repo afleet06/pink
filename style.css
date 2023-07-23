@@ -117,13 +117,13 @@ body {
 .container .star {
   position: absolute;
   left: 40%;
-  top: 20%;
+  top: 15%;
   width: 25%;
   z-index: 4;
 }
 .container .faltan {
   text-align: center;
-  font-size: 2em;
+  font-size: 1.8em;
 }
 .container .contador {
   background-color: #e4497f;
